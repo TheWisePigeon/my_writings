@@ -1,1 +1,2 @@
 # Disclaimer
+Hi reader, the author here. As a 20 years old junior developer with so much left to learn, I apologize for everything wrong I might say in this book. I always wanted to write about programming, I even started a blog and have been consistent with the posts so far, but I also wanted to try myself with writing a book, so here I am.
